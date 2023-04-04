@@ -1,2 +1,12 @@
 # odin-recipes
-First project of TheOdinProject. Create a basic recipe website
+First The Odin Proyect's project: Basic web with links to different recipes.
+
+The web is made with what TOP has taught so far in the Foundations: Basic HTML. There is no CSS or JS work at all.
+
+In this project I have reviewed all the part of: 
+- Creating HTML files
+- HTML basics
+- GIT Basics
+
+Everything through the terminal to get a proper workflow.
+Estimated time to complete the project: 1h15 ~~
