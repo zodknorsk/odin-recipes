@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(204, 204, 204);
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+.portada {
+    text-align: center;
+}
+
+.lista-platos {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.boton-naranja {
+    background-color: #f18148;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all 0.2s ease-in-out;
+    width: 100%;
+  }
