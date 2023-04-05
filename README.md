@@ -10,3 +10,5 @@ In this project I have reviewed all the part of:
 
 Everything through the terminal to get a proper workflow.
 Estimated time to complete the project: 1h15 ~~
+
+Edit 1: Now that I've made some progress in TOP and can write some basic CSS, I've updated the page to give it some personality. 
